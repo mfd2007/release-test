@@ -20,4 +20,4 @@ jobs:
         with:
           # this is a built-in strategy in release-please, see "Action Inputs"
           # for more options
-          release-type: maven
+          release-type: simple
